@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "f41ef10f7e283ba0b6b18fac6fbe8226")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5680057689:AAFLaqV6MkPJQ1SIXuSZTasBG_jfcHpGtuk") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "-1001863562543") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "movierequestgroupl") 
 
 DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
